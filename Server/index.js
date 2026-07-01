@@ -15,7 +15,7 @@ const privateCors =
   cors({
 
     origin: [
-      "http://localhost:5173"
+      "https://nexusai-hg3u.onrender.com"
     ],
 
     credentials: true
